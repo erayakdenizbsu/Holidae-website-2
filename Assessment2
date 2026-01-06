@@ -1,0 +1,17 @@
+/ (root)
+│── index.html              ← Home page
+│
+├── about/
+│   └── index.html
+│
+├── packages/
+│   └── index.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── images/
+    └── (all images here)
